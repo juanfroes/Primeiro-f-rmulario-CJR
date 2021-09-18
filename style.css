@@ -1,0 +1,67 @@
+*{
+    background-image: url(./baixados.jfif);
+    background-size: cover;
+}
+.main{
+    background: rgba(163, 163, 163, 0)
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.7);
+    font: normal 60px Impact, Verdana, serif;
+    color: seashell;
+}
+h2{
+    text-align: center;
+    font: normal 60px Impact, Verdana, serif;
+    color: rgba(255, 0, 0, 0.705);
+    background: rgba(117, 117, 117, 0)
+}
+h3{
+    font: normal 30px Impact, Verdana, serif;
+    color: rgba(255, 0, 0, 0.705);
+    background: rgba(117, 117, 117, 0)
+}
+.rr{
+    background: rgba(46, 42, 42, 0.856)
+    jus
+
+    
+}
+.input{
+    display: flex;
+    justify-content: center;
+    background: rgba(134, 134, 134, 0)
+}
+#para{
+    text-align: center;
+}
+.io{
+    background: rgba(122, 122, 122, 0)
+}
+.insta{
+    background: rgba(75, 75, 75, 0)
+}
+.labels{
+    font: normal 30px Comic;
+    color: white;
+    display: flex;
+    justify-content: left;
+    background: rgba(75, 75, 75, 0)
+
+}
+.nomes{
+    display: flex;
+    justify-content: center;
+}
+#botao{
+    display: flex;
+    justify-content: center;
+    color:white;
+    background-color: red;
+}
